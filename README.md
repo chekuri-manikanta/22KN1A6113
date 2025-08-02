@@ -1,5 +1,4 @@
 # URL Shortener Microservice
-
 A simple Node.js + Express microservice that shortens long URLs and redirects users to the original link.  
 Built as part of a Campus Hiring assignment.
 
@@ -15,14 +14,11 @@ Built as part of a Campus Hiring assignment.
 - Express.js
 - UUID (for unique code generation)
 
-## 🛠 Installation
-
+##  Installation
 ```bash
 # Clone the repository
 git clone https://github.com/chekuri-manikanta/22KN1A6113.git
-
 # Go into the project directory
 cd 22KN1A6113
-
 # Install dependencies
 npm install
